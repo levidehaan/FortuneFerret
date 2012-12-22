@@ -1,4 +1,4 @@
-Making Backbone More Like a Framework
+reMaking Backbone More Like a Framework
 -------------------------------------
 
 Now while I strongly Don't recommend you use a library like a framework, some of you will anyways, and some of you will be forced to use Backbone.
