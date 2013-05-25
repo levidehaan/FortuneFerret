@@ -16,7 +16,9 @@ The reason for this is so I don't have to pull the content until the user clicks
 
 Once the file has been loaded into the users browser then I use a markdown conversion script to render the data in all its proper glory.
 
-###I will probably be switching over to google docs as a document provider instead of github so I don't have to use markdown (gasp, blasphemy).
+###I will probably be switching over to google docs as a document provider instead of github so I don't have to use markdown.
+
+###Also This titles are nifty
 
 
 ## More Info
