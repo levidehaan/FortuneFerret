@@ -18,9 +18,6 @@ Once the file has been loaded into the users browser then I use a markdown conve
 
 ###I will probably be switching over to google docs as a document provider instead of github so I don't have to use markdown.
 
-###Also This titles are nifty
-
-
 ## More Info
 
 I'll be posting an article on the code of how this works at some point so you don't have to go reading the code to figure out the site, although it is a small amount of code (Thanks to Angular) so it won't be hard to follow along with.
