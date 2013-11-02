@@ -1,5 +1,7 @@
 __short story: This website uses git as its cms__
 
+Also this article is just a placeholder, a test item if you will.
+
 ## How it's built
 
 One of the cool things about this site is it is built using [Angular.js](http://angularjs.org) which is an amazing framework.
@@ -16,9 +18,7 @@ The reason for this is so I don't have to pull the content until the user clicks
 
 Once the file has been loaded into the users browser then I use a markdown conversion script to render the data in all its proper glory.
 
-###I will probably be switching over to google docs as a document provider instead of github so I don't have to use markdown.
-
 ## More Info
+------------
 
-I'll be posting an article on the code of how this works at some point so you don't have to go reading the code to figure out the site, although it is a small amount of code (Thanks to Angular) so it won't be hard to follow along with.
-
+Please feel free to read the code, I don't know if I'll ever get a chance to write this whole thing up.
