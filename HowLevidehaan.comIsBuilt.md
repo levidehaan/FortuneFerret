@@ -1,24 +1,27 @@
-__short story: This website uses git as its cms__
+__Tldr; This website uses git as its cms, it's awesome, give me cookies__
 
 Also this article is just a placeholder, a test item if you will.
 
 ## How it's built
 
-One of the cool things about this site is it is built using [Angular.js](http://angularjs.org) which is an amazing framework.
+One of the cool things about this site is it is built using [Angular.js](http://angularjs.org) which is an amazing framework. I have been using it for many of my own projects for the front end. On the backend I use [node.js](http://nodejs.com) and a couple nifty tools in node. My current favorite is the fork functionality to run multi-core. I recently updated the site and got some huge performance gains.
 
-The first thing I had to do was talk to the github api.
-So I created a server that would be the middle man between the client and github to pull my files.
-I wrote this middleware layer in [Node.js](http://nodejs.org).
+So how does this article get loaded.
+First the system connects to github and requests my base data if it doesn't have it yet.
 
-Once the client has connected to levidehaan.com the server asks github for a list of files in a specific repository.
+So I created a server that would be the middle man between the client and github to pull my files and load them into the site after translating from markdown to html.
+( I'm writing this on my tablet and will commit to update my files )
+
+Once the client has connected the server asks github for a list of files in a specific repository (FortuneFerret).
 
 The file name is actually the title of the article (this makes writing concise titles important) for example this article's name is:
-HowLevidehaan.comIsBuilt.md basically it splits on capitals at the moment.
-The reason for this is so I don't have to pull the content until the user clicks the drop down link.
+HowLevidehaan.comIsBuilt.md it inserts a space after each capital letter.
 
-Once the file has been loaded into the users browser then I use a markdown conversion script to render the data in all its proper glory.
+This allows me to update my pages easily, get comments on articles in github and get pull requests on articles.
+
+Once the file has been loaded into the users browser then the markdown conversion script runs to render the data nicely.<br>
 
 ## More Info
 ------------
 
-Please feel free to read the code, I don't know if I'll ever get a chance to write this whole thing up.
+Please feel free to read the code, you will learn so much more.
