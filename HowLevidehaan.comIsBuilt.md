@@ -5,10 +5,10 @@ Also this article is just a placeholder, a test item if you will.
 ---------
 ## How it's built
 
-One of the cool things about this site is it is built using [Angular.js](http://angularjs.org) which is an amazing framework.\n
-I have been using it for many of my own projects for the front end.\n
-On the backend I use [node.js](http://nodejs.com) and a couple nifty tools in node.\n
-My current favorite is the fork functionality to run multi-core.\n
+One of the cool things about this site is it is built using [Angular.js](http://angularjs.org) which is an amazing framework.<br>
+I have been using it for many of my own projects for the front end.<br>
+On the backend I use [node.js](http://nodejs.com) and a couple nifty tools in node.<br>
+My current favorite is the fork functionality to run multi-core.<br>
 I recently updated the site and got some huge performance gains.
 
 So how does this article get loaded?
