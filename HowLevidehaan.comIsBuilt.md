@@ -7,8 +7,8 @@ Also this article is just a placeholder, a test item if you will.
 
 One of the cool things about this site is it is built using [Angular.js](http://angularjs.org) which is an amazing framework. I have been using it for many of my own projects for the front end. On the backend I use [node.js](http://nodejs.com) and a couple nifty tools in node. My current favorite is the fork functionality to run multi-core. I recently updated the site and got some huge performance gains.
 
-So how does this article get loaded?<br>
-First the system connects to github and requests my base data if it doesn't have it yet.<br>
+So how does this article get loaded?
+First the system connects to github and requests my base data if it doesn't have it yet.
 
 So I created a server that would be the middle man between the client and github to pull my files and load them into the site after translating from markdown to html.
 ( I'm writing this on my tablet and will commit to update my files )
