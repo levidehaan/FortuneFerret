@@ -4,7 +4,10 @@ I used this cool script to generate the ships
 https://github.com/a1studmuffin/SpaceshipGenerator
 
 
-![spaceships](http://levidehaan.com/img/spaceships.png "spaceships first" { width=800px height=600px })
+
+spaceships first
+<img src="http://levidehaan.com/img/spaceships.png" width=800 height=600/>
+
 
 ![spaceships](http://levidehaan.com/img/spaceships2.png "spaceships 2" { width=800px height=600px })
 
